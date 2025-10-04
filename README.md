@@ -1,4 +1,4 @@
-# Workshop 2
+# Notebook 2
 
 ## Instructions:
 Open the provided Jupyter notebook `divincenzo_criteria_lab-2.ipynb`. It contains explanations and starter code with sections marked for you to complete. Fill in the missing code where indicated. Solutions have been provided for reference.
